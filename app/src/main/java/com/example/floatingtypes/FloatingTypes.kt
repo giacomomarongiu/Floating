@@ -32,4 +32,15 @@ fun main(){
     println(str.lowercase() +" "+ "marongiu")
     println(str.lowercase() +"\n"+ "marongiu")
 
-}
+    //input
+   // str = readln()
+    println(str.lowercase() +" "+ "marongiu")
+
+    var num = readln().toInt()
+    if (num > 19){
+        println("Entra ")
+    } else if (num==18){
+        println("entra ma stai attento")
+    }else {
+        println("non entri")
+    }}
